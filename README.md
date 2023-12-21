@@ -26,6 +26,8 @@
 <p>Welcome to the Movie Poster Website!</p>
  <p> This project provides a dynamic and visually appealing platform for displaying movie posters. Enhance your movie catalog with an easy-to-use website that leverages the power of the OMDb API.</p>
 
+ <h3>If you want source code please contact me 😊</h3>
+
 <h5>Link API</h5>
   https://www.omdbapi.com/
 
