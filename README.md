@@ -23,7 +23,11 @@
 
 
 <h1 align="center">CineCircle:Captivating Movie Posters</h1>
-<p>Welcome to the Movie Poster Website! This project provides a dynamic and visually appealing platform for displaying movie posters. Enhance your movie catalog with an easy-to-use website that leverages the power of the OMDb API.</p>
+<p>Welcome to the Movie Poster Website!</p>
+ <p> This project provides a dynamic and visually appealing platform for displaying movie posters. Enhance your movie catalog with an easy-to-use website that leverages the power of the OMDb API.</p>
+
+<h5>Link API</h5>
+  https://www.omdbapi.com/
 
 <h3>Features</h3>
 Eye-Catching Posters: Display captivating movie posters.
