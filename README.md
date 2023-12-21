@@ -30,10 +30,10 @@
   https://www.omdbapi.com/
 
 <h3>Features</h3>
-Eye-Catching Posters: Display captivating movie posters.
-Detailed Information: Access comprehensive details about each film.
-Intuitive Design: User-friendly interface for seamless navigation.
-Smart Search: Easily find movies by title, actor, or keywords.
+<p>Eye-Catching Posters: Display captivating movie posters.</p>
+<p>Detailed Information: Access comprehensive details about each film.</p>
+<p>Intuitive Design: User-friendly interface for seamless navigation.</p>
+<p>Smart Search: Easily find movies by title, actor, or keywords.</p>
 
 Getting Started Demo of website :
 
